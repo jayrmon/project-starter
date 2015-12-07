@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+  	<title>Jay Montana</title>
+		<meta charset="utf-8">
+  	<meta name="description" content="Your description goes here">
+
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1>Jay Montana</h1><!-- Your HTML goes here! -->
+				<h2>Guitarist / Composer</h2>	
+						<ul id="nav">
+							<li><a href="about.html">About</a></li>
+							<li><a href="shows.html">Shows</a></li>
+							<li><a href="listen.html">Listen</a></li>
+							<li><a href="gallery.html">Gallery</a></li>
+							<li><a href="gear.html">Gear</a></li>
+							<li><a href="links.html">Links</a></li>
+						</ul>
+			
+			</header>
+				<div class="container">
+				<img id="JayPlaying1" src="images/JM-Guitar-MAIN.jpg"/>
+				</div>
+
+				<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed pretium velit, dignissim elementum purus. Aliquam et ligula bibendum, luctus ipsum sit amet, convallis ligula. Vivamus scelerisque quis nulla nec fringilla. Morbi ut quam finibus, condimentum ex a, pulvinar tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque quis justo at elit interdum rutrum. Donec id porta metus. Integer vitae urna porttitor, ornare est et, ultricies mauris. Suspendisse dictum feugiat molestie. Nunc vitae leo vel tellus vehicula pulvinar. </h3>
+
+				<h4>something esle here as well</h4>
+
+			
+		<footer></footer>
+
+		</div>	
+		<!-- 
+	
+		Your HTML here
+
+		-->
+		<script src="js/jquery-1.11.2.min.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>
